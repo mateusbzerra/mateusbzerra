@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="80" height="80" src="https://mateusbezerra.com/icon.png" alt="Mateus Bezerra" />
+</p>
+<p align="center">Mateus Bezerra</p>
+
 ### Hi there 👋
 
 <!--
