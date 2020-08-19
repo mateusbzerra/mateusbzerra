@@ -13,7 +13,12 @@ Now, let me talk more about what I've been doing professionally:
 - 💻 Working with NextJS, ReactJS, Typescript, React Native, GraphQL with Apollo and Material UI;
 - 🇺🇸 Dedicating a few hours every day to improve my writing and speaking English skills;
 
-If you want to know more about what I have done and more information about me, feel free be in touch with me ;)
+If you want to know more about what I have done and more information about me, feel free be in touch in the links below ;)
+<p aling="center">
+<img src="https://img.shields.io/badge/-@mateusbzerra-blue?logo=twitter&style=for-the-badge&labelColor=dddddd" />
+<img src="https://img.shields.io/badge/-/in/mateusbzerra-blue?logo=linkedin&style=for-the-badge&labelColor=dddddd&logoColor=blue" />
+<img src="https://img.shields.io/badge/-dev@mateusbezerra.com-blue?logo=mail.ru&style=for-the-badge&labelColor=dddddd&logoColor=blue" />
+</p>
 
 
 
