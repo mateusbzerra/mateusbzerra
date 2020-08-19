@@ -15,9 +15,15 @@ Now, let me talk more about what I've been doing professionally:
 
 If you want to know more about what I have done and more information about me, feel free be in touch in the links below ;)
 <p aling="center">
-<img src="https://img.shields.io/badge/-@mateusbzerra-blue?logo=twitter&style=for-the-badge&labelColor=dddddd" />
-<img src="https://img.shields.io/badge/-/in/mateusbzerra-blue?logo=linkedin&style=for-the-badge&labelColor=dddddd&logoColor=blue" />
-<img src="https://img.shields.io/badge/-dev@mateusbezerra.com-blue?logo=mail.ru&style=for-the-badge&labelColor=dddddd&logoColor=blue" />
+<a href="https://www.twitter.com/mateusbzerra/" target="_blank">
+  <img src="https://img.shields.io/badge/-@mateusbzerra-blue?logo=twitter&style=for-the-badge&labelColor=dddddd" />
+</a>
+<a href="https://www.linkedin.com/in/mateusbzerra/?locale=en_US" target="_blank">
+  <img src="https://img.shields.io/badge/-/in/mateusbzerra-blue?logo=linkedin&style=for-the-badge&labelColor=dddddd&logoColor=blue" />
+</a>
+<a href="mailto:dev@mateusbzerra.com" target="_blank">
+  <img src="https://img.shields.io/badge/-dev@mateusbezerra.com-blue?logo=mail.ru&style=for-the-badge&labelColor=dddddd&logoColor=blue" />
+</a>
 </p>
 
 
