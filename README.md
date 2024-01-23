@@ -10,7 +10,7 @@
 )
 - ✈️ I love traveling around Brazil. We have a rich and diverse culture, accents, and dishes
 - 🐶 I have a caramel-colored chihuahua and Its name is Doglas
-- Lastly, I'm always open to learning something new!
+- 📚 I'm always open to learning something new!
 
 
 If you want to know more about what I have done and more information about me, feel free to get in touch at the links below ;)
