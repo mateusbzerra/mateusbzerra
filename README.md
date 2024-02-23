@@ -5,7 +5,7 @@
 - 🇧🇷 Currently based on Santana/AP - Brazil
 - 🕔 5 years of experience in the Software Development industry
 - 🖥 Working mainly on the Front-end for the last three years
-- 📜 Got a Bachelors degree in Computer Science (2016 - 2022)
+- 📜 Bachelor of Computer Science (2016 - 2023)
 - 🎖 I have already built an award-winning Android/iOS app, "SafeGirl", to help women find safe places to have fun, alone or with friends. Because of it, I had the opportunity to visit Meta, LinkedIn, Google, and Twitter headquarters (It was a life change experience) [more info](https://www-institutoclaro-org-br.translate.goog/nossas-novidades/participantes-da-7a-edicao-do-campus-mobile-criam-app-para-combater-assedio-contra-mulheres/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp
 )
 - ✈️ I love traveling around Brazil. We have a rich and diverse culture, accents, and dishes
