@@ -15,13 +15,15 @@
 
 If you want to know more about what I have done and more information about me, feel free to get in touch at the links below ;)
 
+<div>
+<a href="https://mateusbezerra.com" target="_blank">
+   <img width="160" alt="Static Badge" src="https://img.shields.io/badge/Portfolio-darkblue?style=for-the-badge&logo=Files&logoColor=white">
+</a>
 
 <a href="https://www.linkedin.com/in/mateusbzerra/?locale=en_US" target="_blank">
-  <img style="width: 120px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <img width="140" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="mailto:dev@mateusbzerra.com" target="_blank">
-  <img style="width: 90px" src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=mail.ru" />
-</a>
+  
+</div>
 
 
